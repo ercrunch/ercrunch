@@ -45,9 +45,9 @@ I'm currently learning web development and exploring different areas along the w
 ---
 
 ## Fun Facts
-- ☕ Coffee + late night = productive mode  
+- ☕ I love coffee and late-night coding  
 - 🎧 I enjoy working with music  
-- 🌱 Small progress still counts  
+- 🌱 I believe small progress still counts  
 
 ---
 
