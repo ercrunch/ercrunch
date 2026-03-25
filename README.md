@@ -1,16 +1,59 @@
-## Hi there 👋
+<p align="center">
+  <img width="180" src="https://github.com/user-attachments/assets/05b313e0-608b-4390-8b84-c13f4b20d828" />
+</p>
 
-<!--
-**ercrunch/ercrunch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Erica!</h1>
+<h3 align="center">A beginner web developer from Indonesia 🇮🇩</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I'm currently learning web development and exploring different areas along the way.
+
+- 💡 Interested in UI/UX and digital products  
+- 🎨 Enjoy designing simple interfaces in Figma  
+- 🚀 Learning HTML, CSS, and JavaScript  
+- 🌱 Improving a little every day  
+
+---
+
+## Tech I'm Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github" />
+</p>
+
+---
+
+## GitHub Activity
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ercrunch&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ercrunch&theme=tokyonight" />
+</p>
+
+---
+
+## Current Focus
+- 🎨 Practicing UI design  
+- 💻 Learning Git & GitHub step by step  
+- 👩🏻‍💻 Improving coding skills  
+
+---
+
+## Connect
+- 🌍 Portfolio: coming soon 🚧  
+
+---
+
+## Fun Facts
+- ☕ Coffee + late night = productive mode  
+- 🎧 I enjoy working with music  
+- 🌱 Small progress still counts  
+
+---
+
+## Motivation
+> "Keep learning, even if it's just a little today."
+
+---
+
+## Thanks for visiting 👋
