@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="180" src="https://github.com/ercrunch/ercrunch/blob/main/githubBanner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/ercrunch/ercrunch/main/githubBanner.png" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Erica!</h1>
